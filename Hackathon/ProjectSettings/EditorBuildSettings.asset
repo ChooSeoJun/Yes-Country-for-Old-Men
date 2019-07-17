@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 0c2afde7cbd238841ad9631e359c8ac8
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 38956ddbb92abaa468d7ee8d61745469
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 72c3d7645be43f84fa99e729f5d233e5
+  - enabled: 1
+    path: Assets/Scenes/MakingRice.unity
+    guid: 0c2678456dc23004b8a13144c0fd9d19
+  - enabled: 1
+    path: Assets/Scenes/Massage.unity
+    guid: bdca166ba7302a847bf6614d1f01537e
+  - enabled: 1
+    path: Assets/Scenes/FixHouse.unity
+    guid: b6adb5c1251149d4bb0bbbe284d221c6
+  - enabled: 1
+    path: Assets/Scenes/CoalBriquette.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Dancing.unity
+    guid: 39322b1df19437d44acc2bc977429110
+  - enabled: 1
+    path: Assets/Scenes/SadEnding.unity
+    guid: 986c4b9ed25cc8f49adce654770ec598
+  - enabled: 1
+    path: Assets/Scenes/HappyEnding.unity
+    guid: 663a50b7cd042474199a2afb428cc54c
+  m_configObjects: {}
